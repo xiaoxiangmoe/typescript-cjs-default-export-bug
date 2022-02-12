@@ -1,0 +1,11 @@
+{
+  "name": "typescript-cjs-default-export-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/xiaoxiangmoe/typescript-cjs-default-export-bug.git",
+  "author": "ZHAO Jinxiang <xiaoxiangmoe@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "4.6.0-dev.20220211"
+  }
+}
